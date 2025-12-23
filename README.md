@@ -3,44 +3,49 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am currently beginning my transition into cyber security and am undertaking structured SOC Foundations training. My focus is on understanding the role of a SOC analyst, core security operations concepts, and incident response fundamentals, while building strong habits around documentation and continuous learning.
+I am currently beginning my transition into cyber security and am focusing on building strong fundamentals through structured TryHackMe courses. My learning journey covers Pre-Security Pathway, Cyber Security 101, and SOC Level 1 (paused). I am documenting concepts, observations, and reflections to develop solid habits around security understanding and professional reporting.
 
 ---
 
 ## Objective
 
-To progress into an entry-level SOC or Cyber Security Analyst role in the UK by building a solid foundation in SOC operations, incident response concepts, and security monitoring through hands-on training and continuous development.
+To build a strong foundation in cyber security and SOC operations, preparing for an entry-level SOC or Cyber Security Analyst role in the UK. My immediate focus is on completing foundational courses before resuming SOC Level 1 training.
 
 ---
 
-## Skills (Developing – SOC Foundations)
+## Skills (Developing – Fundamentals & SOC)
 
 | Area | Evidence |
 |------|---------|
-| SOC fundamentals and analyst responsibilities | TryHackMe SOC Foundations (In Progress) |
-| Security operations concepts | SOC Foundations learning notes |
-| Incident response lifecycle (theory) | Course notes & reflections |
-| Alert handling and escalation concepts | SOC Foundations modules |
-| Security documentation and reporting | GitHub learning summaries |
+| Cyber security fundamentals | TryHackMe Pre-Security & Cyber Security 101 notes |
+| Basic networking and systems understanding | Pre-Security Pathway learning notes |
+| SOC analyst roles and responsibilities (theory) | SOC Level 1 (Paused) |
+| Alert handling and escalation concepts (theory) | SOC Level 1 (Paused) |
+| Security documentation and reflections | GitHub learning summaries |
 
 ---
 
 ## Tools (Learning)
 
-- TryHackMe — SOC Foundations (In Progress)
+- TryHackMe – Pre-Security Pathway, Cyber Security 101, SOC Level 1 (Paused)  
+
+> Tools and hands-on labs will be added once foundational knowledge is solid.
 
 ---
 
 ## Training
 
-- TryHackMe — SOC Foundations  
-  Status: Day 3 (In Progress)
+| Course | Day | Status | Focus Areas |
+|--------|-----|--------|------------|
+| Pre-Security Pathway | 3 | In Progress | Computers & operating systems, networking, security fundamentals |
+| Cyber Security 101 | 3 | In Progress | Security principles, attacker methods, risk awareness |
+| SOC Level 1 | 3 | Paused | SOC roles, alert handling, incident response lifecycle (theory) |
 
 ---
 
 ## Portfolio Principles
 
-- Focus on learning concepts before tools
+- Focus on learning and understanding concepts before tools
 - No walkthroughs, flags, or challenge answers
-- Emphasis on learning process and reflections
-- Ethical and responsible learning
+- Emphasis on process, methodology, and reflections
+- Ethical and responsible documentation
