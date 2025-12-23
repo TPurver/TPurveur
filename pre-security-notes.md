@@ -1,4 +1,4 @@
-# Pre-Security Pathway – Notes Day 3
+# Pre-Security Pathway – Notes Day 3 
 
 **Topics Covered:**
 - Introduction to computers and operating systems
